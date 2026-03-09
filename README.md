@@ -167,8 +167,7 @@ Design Patterns Project/
 │       └── java/                  # JUnit tests
 ├── junit-platform-console-standalone-1.9.3.jar
 ├── run-tests.bat
-├── pom.xml
-└── README.md
+└── pom.xml
 ```
 
 ---
