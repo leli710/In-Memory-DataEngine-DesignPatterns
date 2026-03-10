@@ -21,7 +21,7 @@ This project implements a fully functional in-memory database engine that suppor
 
 For a comprehensive walkthrough of the system, including a deep dive into the Design Patterns implementation and a live demonstration of the database operations, watch the video here:
 
-👉 **[Watch the Project Presentation]([https://drive.google.com/uc?id=1rnARydEagvUA-FU0L9GtpOdqiKAaOCDk&export=download])**
+👉 **[Watch the Project Presentation](https://drive.google.com/uc?id=1rnARydEagvUA-FU0L9GtpOdqiKAaOCDk&export=download)**
 
 ---
 
